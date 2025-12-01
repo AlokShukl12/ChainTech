@@ -1,0 +1,31 @@
+.app-shell {
+  min-height: 100vh;
+  background: radial-gradient(circle at 10% 20%, #eef2ff 0, rgba(238, 242, 255, 0) 25%),
+    radial-gradient(circle at 80% 0%, #e0f2fe 0, rgba(224, 242, 254, 0) 22%),
+    #f8fafc;
+}
+
+.app-main {
+  padding: 2rem 0 3rem;
+}
+
+.hero-panel {
+  border: 1px solid #e2e8f0;
+}
+
+.navbar-brand {
+  letter-spacing: 0.5px;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+.form-control-lg {
+  font-size: 1rem;
+}
+
+.badge.bg-success-subtle,
+.badge.bg-primary-subtle {
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
